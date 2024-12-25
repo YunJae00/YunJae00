@@ -12,7 +12,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/sqlite-4169E1?style=flat-square&logo=sqlite&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp
 </div>
 
 <br>
